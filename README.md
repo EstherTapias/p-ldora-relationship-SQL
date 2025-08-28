@@ -20,7 +20,7 @@ El objetivo es explicar de forma sencilla cómo funcionan y cómo implementarlas
 
 ---
 
-## 👩‍💻 Autoría
+## 👩‍💻 Desarrollo
 - Creado por: **Esther Tapias**  
 - Realizado como parte de mi **Bootcamp de Fullstack + DevOps**  
 
